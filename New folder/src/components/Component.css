@@ -1,0 +1,47 @@
+.container{
+   
+    margin-top: 5%;
+    text-align: center;
+   
+}
+
+.btn{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.home{
+    height: 100%;
+    width: 100% ;
+    font-family: gilroy;
+    text-align: center;
+    color: beige;
+    background-image: url(https://cdn.pixabay.com/photo/2022/09/21/17/02/blue-background-7470781_640.jpg);
+}
+
+h1{
+    font-size: 150px;
+    color: rgba(220, 245, 235, 0.575);
+
+}
+
+h2{
+    font-size: 75px;
+    color: rgba(220, 245, 235, 0.575);
+
+
+}
+
+h3{
+    font-size: 50px;  
+    color: rgba(19, 231, 231, 0.575);
+    margin-top: 2rem;
+}
+
+p{
+    margin-top: 100px;
+}
+
+.searchbox{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCiEbklDhILQFzdeKEMdBCpLIGRWaHRCxAlw&s);
+}
